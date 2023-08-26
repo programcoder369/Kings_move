@@ -1,9 +1,4 @@
-# print("hii i am vishesh maurya first time using laptop for programming")
-#for i in range(1,11):
-  #  for j in range(1,11):
-  #      m = i*j
-  #      print(j,"X",i,"=",m,end = "\")
-#print("hii playing ascibell \a ok")
+
 form tkinter import *
 import random 
 root = Tk()
